@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1440" height="1000" viewBox="0 0 1440 1000">
+<rect width="1440" height="1000" fill="#f5f7fb"/>
+<rect x="0" y="0" width="240" height="1000" rx="0" fill="#101c32" stroke="#101c32"/>
+<rect x="22" y="24" width="34" height="34" rx="10" fill="#326bff" stroke="#326bff"/>
+<text x="33" y="47" font-family="Inter, Arial, sans-serif" font-size="18" font-weight="800" fill="#ffffff">N</text>
+<text x="68" y="48" font-family="Inter, Arial, sans-serif" font-size="20" font-weight="800" fill="#ffffff">nova market</text>
+<text x="32" y="112" font-family="Inter, Arial, sans-serif" font-size="16" font-weight="600" fill="#9eacc2">⌂</text>
+<text x="62" y="112" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="500" fill="#b9c5d8">Главная</text>
+<text x="32" y="160" font-family="Inter, Arial, sans-serif" font-size="16" font-weight="600" fill="#9eacc2">▦</text>
+<text x="62" y="160" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="500" fill="#b9c5d8">Каталог</text>
+<text x="32" y="208" font-family="Inter, Arial, sans-serif" font-size="16" font-weight="600" fill="#9eacc2">⌕</text>
+<text x="62" y="208" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="500" fill="#b9c5d8">Поиск и фильтры</text>
+<rect x="14" y="230" width="212" height="38" rx="10" fill="#213453" stroke="#213453"/>
+<text x="32" y="256" font-family="Inter, Arial, sans-serif" font-size="16" font-weight="600" fill="#ffffff">◇</text>
+<text x="62" y="256" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="700" fill="#ffffff">Карточка товара</text>
+<text x="32" y="304" font-family="Inter, Arial, sans-serif" font-size="16" font-weight="600" fill="#9eacc2">🛒</text>
+<text x="62" y="304" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="500" fill="#b9c5d8">Корзина</text>
+<text x="32" y="352" font-family="Inter, Arial, sans-serif" font-size="16" font-weight="600" fill="#9eacc2">✓</text>
+<text x="62" y="352" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="500" fill="#b9c5d8">Оформление</text>
+<text x="32" y="400" font-family="Inter, Arial, sans-serif" font-size="16" font-weight="600" fill="#9eacc2">↪</text>
+<text x="62" y="400" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="500" fill="#b9c5d8">Вход / регистрация</text>
+<text x="32" y="448" font-family="Inter, Arial, sans-serif" font-size="16" font-weight="600" fill="#9eacc2">◎</text>
+<text x="62" y="448" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="500" fill="#b9c5d8">Личный кабинет</text>
+<text x="32" y="496" font-family="Inter, Arial, sans-serif" font-size="16" font-weight="600" fill="#9eacc2">⚙</text>
+<text x="62" y="496" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="500" fill="#b9c5d8">Предпочтения</text>
+<text x="32" y="544" font-family="Inter, Arial, sans-serif" font-size="16" font-weight="600" fill="#9eacc2">▤</text>
+<text x="62" y="544" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="500" fill="#b9c5d8">Админ-панель</text>
+<text x="274" y="38" font-family="Inter, Arial, sans-serif" font-size="11" font-weight="500" fill="#77839a">Главная / Карточка товара</text>
+<text x="274" y="69" font-family="Inter, Arial, sans-serif" font-size="10" font-weight="400" fill="#9aa5b6">Ваш магазин повседневных решений</text>
+<rect x="1126" y="22" width="280" height="42" rx="10" fill="#ffffff" stroke="#e5eaf2"/>
+<text x="1144" y="48" font-family="Inter, Arial, sans-serif" font-size="11" font-weight="600" fill="#526078">Профиль: Гость / U002 / U004</text>
+<text x="274" y="126" font-family="Inter, Arial, sans-serif" font-size="31" font-weight="800" fill="#17233b">Карточка товара</text>
+<text x="274" y="155" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="400" fill="#77839a">Описание, цена, остаток и связанные позиции</text>
+<rect x="274" y="184" width="650" height="600" rx="12" fill="#ffffff" stroke="#e5eaf2"/>
+<rect x="292" y="202" width="614" height="230" rx="14" fill="#eef3ff" stroke="#eef3ff"/>
+<text x="559" y="340" font-family="Inter, Arial, sans-serif" font-size="72" font-weight="800" fill="#326bff">✦</text>
+<text x="294" y="475" font-family="Inter, Arial, sans-serif" font-size="25" font-weight="800" fill="#17233b">Название товара</text>
+<text x="294" y="509" font-family="Inter, Arial, sans-serif" font-size="11" font-weight="500" fill="#77839a">Категория · подкатегория · SKU</text>
+<text x="294" y="570" font-family="Inter, Arial, sans-serif" font-size="21" font-weight="800" fill="#17233b">Цена  ·  12 900 ₸</text>
+<rect x="294" y="612" width="220" height="44" rx="10" fill="#326bff" stroke="#326bff"/>
+<text x="331" y="640" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="700" fill="#ffffff">Добавить в корзину</text>
+<rect x="949" y="184" width="457" height="270" rx="12" fill="#ffffff" stroke="#e5eaf2"/>
+<text x="971" y="225" font-family="Inter, Arial, sans-serif" font-size="18" font-weight="800" fill="#17233b">Почему рекомендуем</text>
+<text x="971" y="266" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="400" fill="#77839a">Совпадает с категорией и</text>
+<text x="971" y="288" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="400" fill="#77839a">настройками предпочтений.</text>
+<rect x="949" y="472" width="457" height="312" rx="12" fill="#ffffff" stroke="#e5eaf2"/>
+<text x="971" y="512" font-family="Inter, Arial, sans-serif" font-size="18" font-weight="800" fill="#17233b">С этим товаром смотрят</text>
+<text x="274" y="960" font-family="Inter, Arial, sans-serif" font-size="9" font-weight="600" fill="#9aa5b6">NOVA MARKET   ·   УЧЕБНЫЙ ПРОТОТИП</text>
+</svg>
